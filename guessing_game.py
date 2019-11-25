@@ -22,5 +22,4 @@ while not game_over:
 
 
 
-
         
